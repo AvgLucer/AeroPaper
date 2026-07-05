@@ -13,18 +13,18 @@
 
 *A lightweight desktop wallpaper application for Windows.*
 
+
 ## ✨ Features
 
-✨ Features
+- 🌐 Browse and download wallpapers from online libraries
+- 🖼️ Apply wallpapers instantly with one click
+- 📂 Import custom wallpaper collections
+- 🔍 Search wallpapers in seconds
+- 🗂️ Organize wallpapers by category
+- 💾 Offline support for downloaded wallpapers
+- ⚡ Lightweight and responsive desktop application
+- 🖥️ Built for Windows 10 & Windows 11
 
-• Browse curated online wallpaper libraries
-• Download wallpapers directly to your PC
-• Apply wallpapers with one click
-• Import and manage your own wallpaper collection
-• Search wallpapers instantly
-• Category-based navigation
-• Lightweight and responsive desktop interface
-• Works offline after wallpapers are downloaded
 
 ## 📦 Installation
 
