@@ -1,5 +1,15 @@
 # AeroPaper Desktop Suite
 
+
+![AeroPaper Preview](1st.PNG)
+![AeroPaper Preview2](2nd.PNG)
+
+
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![Language](https://img.shields.io/badge/Python-3.12-yellow)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-Personal-lightgrey)
+
 *A lightweight desktop wallpaper application for Windows.*
 
 ## ✨ Features
@@ -40,6 +50,3 @@ Found a bug or have a suggestion? Please open an issue on the GitHub repository.
 This project is provided as-is for personal use unless otherwise specified.
 ~AvgLucer
 
-
-![AeroPaper Preview](1st.PNG)
-![AeroPaper Preview2](2nd.PNG)
