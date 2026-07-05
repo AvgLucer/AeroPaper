@@ -38,9 +38,7 @@
 
 GitHub Repository:
 
-**https://github.com/YOUR_USERNAME/YOUR_REPOSITORY**
-
-Replace the link above with your actual GitHub repository URL.
+**https://github.com/AvgLucer/vibecoding/AeroPaper**
 
 ## 🐞 Issues & Feedback
 
