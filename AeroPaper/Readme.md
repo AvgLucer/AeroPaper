@@ -41,4 +41,4 @@ This project is provided as-is for personal use unless otherwise specified.
 ~AvgLucer
 
 
-![AeroPaper Preview](1st.png)
+![AeroPaper Preview](1st.PNG)
