@@ -15,11 +15,16 @@
 
 ## ✨ Features
 
-* 🖼️ Browse high-quality wallpapers.
-* 🖥️ Set wallpapers directly from the app.
-* ⚡ Fast, lightweight, and easy to use.
-* 💻 Runs locally on your computer.
-* 🌐 Downloads wallpapers from publicly available image URLs.
+✨ Features
+
+• Browse curated online wallpaper libraries
+• Download wallpapers directly to your PC
+• Apply wallpapers with one click
+• Import and manage your own wallpaper collection
+• Search wallpapers instantly
+• Category-based navigation
+• Lightweight and responsive desktop interface
+• Works offline after wallpapers are downloaded
 
 ## 📦 Installation
 
