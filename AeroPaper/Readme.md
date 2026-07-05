@@ -38,7 +38,7 @@
 
 GitHub Repository:
 
-**https://github.com/AvgLucer/vibecoding/AeroPaper**
+**[https://github.com/AvgLucer/vibecoding/AeroPaper](https://github.com/AvgLucer/vibecoding/tree/main/AeroPaper)**
 
 ## 🐞 Issues & Feedback
 
