@@ -39,3 +39,6 @@ Found a bug or have a suggestion? Please open an issue on the GitHub repository.
 
 This project is provided as-is for personal use unless otherwise specified.
 ~AvgLucer
+
+
+![AeroPaper Preview](1st.png)
