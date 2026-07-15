@@ -156,5 +156,6 @@ See the LICENSE file for details.
 ---
 [Note : This Project was Made Using Loop Engineering and Vibe Coding] 
 
+[Note : Custom wallpaper feature is not yet supported , once access to the configuration will be added soon]
 
 Made with ❤️ by **AvgLucer**
