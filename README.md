@@ -1,5 +1,13 @@
 # 🖼️ AeroPaper
 
+
+
+<p align="center">
+  <img src="aerobanner.png" alt="AeroPaper Banner" width="100%">
+</p>
+
+
+
 > A lightweight, open-source wallpaper application that works both **offline** and **online**—no installation required.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
